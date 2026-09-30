@@ -1,0 +1,3 @@
+.venv/
+*.sdf
+__pycache__/
